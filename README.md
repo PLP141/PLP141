@@ -12,6 +12,6 @@
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLP141&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLP141&layout=compact&theme=dark)
 
 ### Estou cursando TSI e ADS com o objetivo de me tornar um exímio programador.
